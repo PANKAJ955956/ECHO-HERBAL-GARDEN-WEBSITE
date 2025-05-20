@@ -120,5 +120,5 @@ MIT License
 
 **Project By:** Pankaj Kumar
 **Institution:** Shri Ramswaroop Memorial College of Engineering and Management
-**Mentor:** \[Add Name Here]
+**Mentor:** \[Er. Ratan Rajan Srivastav ]
 **Inspired By:** Ministry of AYUSH, Government of India
