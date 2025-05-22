@@ -119,7 +119,7 @@ MIT License
 ## 🙌 Team / Acknowledgment
 
 **Project By:** Pankaj Kumar
-Partner ** Aman Mishra**
+| Partner ** Aman Mishra**
 **Institution:** Shri Ramswaroop Memorial College of Engineering and Management
 **Mentor:** \[Er. Ratan Rajan Srivastav ]
 **Inspired By:** Ministry of AYUSH, Government of India
