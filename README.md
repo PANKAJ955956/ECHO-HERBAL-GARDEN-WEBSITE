@@ -123,3 +123,4 @@ MIT License
 **Institution:** Shri Ramswaroop Memorial College of Engineering and Management
 **Mentor:** \[Er. Ratan Rajan Srivastav ]
 **Inspired By:** Ministry of AYUSH, Government of India
+**Helped For** SENIOR CITIZEN && PATEINTS OF MULTIPLE DESIESE
