@@ -39,6 +39,7 @@ ECHO Herbal Garden Website is an educational and awareness platform designed to 
 * Explore Plants
 * Plant Detail Page
 * Search & Filter
+* Purchase Products
 * About AYUSH
 * Contact / Feedback Form
 * Admin Panel (optional)
