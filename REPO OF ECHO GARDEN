@@ -1,0 +1,52 @@
+# 🌿 ECHO Herbal Garden Website
+
+## 📌 Project Title
+**ECHO Herbal Garden Website** – *Empowering Communities through Herbal Outreach (ECHO)*
+
+## 🧠 Project Abstract
+A virtual herbal garden promoting **AYUSH** (Ayurveda, Yoga, Unani, Siddha, Homeopathy) by preserving and disseminating knowledge on medicinal plants. This platform offers users educational content, interactive exploration, and sustainable healthcare insights.
+
+---
+
+## 🎯 Objectives
+- Educate users about Indian medicinal plants and their benefits
+- Promote Indian AYUSH systems
+- Create an interactive virtual garden experience
+- Aid students, researchers, and healthcare practitioners
+- Encourage sustainable health practices
+
+---
+
+## 🔍 Key Features
+✅ Browse/search medicinal plants  
+✅ Search by disease, symptom, or herb name  
+✅ Detailed plant info: names, uses, images, preparation  
+✅ Downloadable herbal guides (PDF)  
+✅ Mobile responsive design  
+✅ Optional: Virtual Garden map & Admin Panel  
+
+---
+
+## 🧱 Tech Stack
+| Layer | Technologies |
+|-------|--------------|
+| Frontend | HTML5, CSS3, JavaScript, Bootstrap/Tailwind CSS |
+| Backend | Python (Flask/Django) or Node.js (Express) |
+| Database | MongoDB / MySQL / SQLite |
+| Tools | GitHub, Figma, Canva, Netlify/Heroku, Postman |
+
+---
+
+## 🧩 Modules / Components
+- 🏠 Home Page  
+- 🔍 Explore Plants  
+- 🌿 Plant Detail View  
+- 🔎 Search & Filter  
+- 🛒 Purchase Products (Optional)  
+- 🧘‍♂️ About AYUSH  
+- 📩 Contact / Feedback  
+- 🔐 Admin Panel *(Optional)*  
+
+---
+
+## 🧭 Information Architecture
